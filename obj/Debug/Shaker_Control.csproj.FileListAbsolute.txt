@@ -17,3 +17,15 @@ C:\Users\think\Desktop\Shaker_Control20150317\obj\Debug\Shaker_Control.exe
 C:\Users\think\Desktop\Shaker_Control20150317\obj\Debug\Shaker_Control.pdb
 C:\Users\think\Desktop\Shaker_Control20150502\obj\Debug\Shaker_Control.exe
 C:\Users\think\Desktop\Shaker_Control20150502\obj\Debug\Shaker_Control.pdb
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control.pdb
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control.csprojResolveAssemblyReference.cache
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\App.g.cs
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control_MarkupCompile.cache
+C:\Users\think\Desktop\CSharp_3D_WPF\bin\Debug\Shaker_Control.exe
+C:\Users\think\Desktop\CSharp_3D_WPF\bin\Debug\Shaker_Control.pdb
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Window1.baml
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Window1.g.cs
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control.g.resources
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control.Properties.Resources.resources
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control.csproj.GenerateResource.Cache
+C:\Users\think\Desktop\CSharp_3D_WPF\obj\Debug\Shaker_Control.exe
